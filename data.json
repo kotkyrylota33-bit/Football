@@ -1,0 +1,38 @@
+ [
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "club": "Inter Miami",
+        "position": "RW"
+    },
+    {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "club": "Al Nassr",
+        "position": "ST"
+    },
+    {
+        "id": 3,
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "position": "CM"
+    },
+    {
+        "id": 4,
+        "name": "Kylian Mbappe",
+        "club": "Real Madrid",
+        "position": "ST"
+    },
+    {
+        "id": 5,
+        "name": "Erling Haaland",
+        "club": "Manchester City",
+        "position": "ST"
+    },
+    {
+        "id": 6,
+        "name": "Jude Bellingham",
+        "club": "Real Madrid",
+        "position": "CM"
+    }
+]

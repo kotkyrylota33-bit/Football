@@ -1,0 +1,14 @@
+ {
+    "name": "student/football-api",
+    "description": "Local Football Players API with PHP and Composer",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
